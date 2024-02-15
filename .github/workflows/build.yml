@@ -1,6 +1,0 @@
-name: Build OpenJDK 21 for Android
-
-on:
-  push:
-  pull_request:
-  workflow_dispatch:
