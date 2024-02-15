@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - name: Please use the workflow of the corresponding branch
-      run: bash "alert.sh"
+      uses: actions/checkout@v4
